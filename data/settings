@@ -1,0 +1,7 @@
+{
+  "player": {
+    "size": [73, 80],
+    "parts":  ["up_1", "down_1"],
+    "other":  ["up_2", "down_2"]},
+  "platform": [78, 19]
+}
